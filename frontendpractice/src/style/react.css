@@ -1,0 +1,30 @@
+h1{color:red;
+text-align:center}
+body{
+    background-color: rgb(21, 233, 162);
+}
+fieldset{
+     margin-top:100px;
+     margin-left:450px;
+     margin-right:500px;
+    background-color: aquamarine;
+    width: 30%;
+    }
+    button{
+        color:blue;
+        border-radius:5px;
+        border:solid black 1px;
+        background-color: rgb(42, 165, 155); 
+         text-align: center;
+         
+    }
+    #align{
+        text-align:right;
+        margin-right:10%;
+      }
+      #p{
+        color:rgb(4, 61, 110);
+        font-size:large;
+       margin-right:25%;
+      }
+      
